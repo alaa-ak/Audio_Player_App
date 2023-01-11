@@ -3,8 +3,12 @@ Audio Player App by Flutter .
 Audio Player App for learning that contains :
 Getx State Management.
 
-Loop, Repeat, Pervious, Speed and Slow Buttons.
-https://user-images.githubusercontent.com/122216335/211821113-b62efdd3-fdac-4959-a507-3beacb86b575.mp4
+Next, Pervious, Speed and Slow Buttons.
+https://user-images.githubusercontent.com/122216335/211833148-0fe23719-914f-46e5-bb5f-2af0dde9a649.mp4
+
+-------------------------------------------------------------------------------------------------------
+Loop, Repeat Buttons
+https://user-images.githubusercontent.com/122216335/211833257-7d61bb19-c76f-47ce-b154-c92378159992.mp4
 
 -------------------------------------------------------------------------------------------------------
 Search with audio name.
